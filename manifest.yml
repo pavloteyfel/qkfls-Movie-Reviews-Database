@@ -3,3 +3,6 @@ applications:
  - name: movies-reviews-database-b58
    random-route: false
    memory: 128M
+   services:
+   - cloudappdevs-cloudant
+   - cloudappdevs-nlu
