@@ -3,14 +3,12 @@
 I've built an IBM Cloudant connected, CI/CD enabled application.
  
 ## Service Creation
-1.  Cloudant service was created
-2.  NLU service was created
-3.  App connections
-4.  A continuous Delivery Service was created
-5.  CI/CD toolchain
-6.  Code is forked into the learner’s own repo
-7.  The git repository input to the build stage is the forked repository
-8.  The images are not sample screenshots
+1.  Created Cloudant service
+2.  Created NLU (Natural Language Understanding) service
+3.  Connected App to Cloudant and NLU
+4.  Created Continuous Delivery Service
+5.  Created CI/CD toolchain
+6.  This git repository is used as an input to the build stage
 
 ## Basic requirements
 1.  Application was created on IBM Cloud (Starter Kit)
