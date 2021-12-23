@@ -2,7 +2,7 @@
 
 I've built an IBM Cloudant connected, CI/CD enabled application.
  
-## Service Creation
+## Service Creation Steps
 1.  Created Cloudant service
 2.  Created NLU (Natural Language Understanding) service
 3.  Connected App to Cloudant and NLU
